@@ -7,11 +7,15 @@
     <img  src="https://visitor-badge.glitch.me/badge?page_id=huajianyizou" />
 </div>
 
-[![GitHub](icons/github.png)](https://github.com/huajianyizou)
+[![GitHub](icons/icons8-github-32.png)](https://github.com/huajianyizou)
 [![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UCrjOyA9RnpaH9y0rlKkvvCA)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/huajian_yi_zou/)
+[![Minecraft](icons/icons8-minecraft-creeper-32.png)]
+[![Steam](icons/icons8-steam-32.png)](https://steamcommunity.com/profiles/76561198965614838/)
 
 学习中……  
+<a title="Java"><img src="icons/java.png" /></a>
+<a title="C/C++"><img src="icons/c++语言.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
