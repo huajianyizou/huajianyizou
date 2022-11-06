@@ -15,7 +15,8 @@
 
 学习中……  
 <a title="Java"><img src="icons/java.png" /></a>
-<a title="C/C++"><img src="icons/c++语言.png" /></a>
+<a title="Linux"><img src="icons/icons8-linux-40.png" /></a>
+<a title="C/C++"><img src="icons/icons8-c-plus-plus-40.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
