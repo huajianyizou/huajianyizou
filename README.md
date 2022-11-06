@@ -7,13 +7,11 @@
     <img  src="https://visitor-badge.glitch.me/badge?page_id=huajianyizou" />
 </div>
 
-
 [![GitHub](icons/icons8-github-40.png)](https://github.com/huajianyizou)
 [![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UCrjOyA9RnpaH9y0rlKkvvCA)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/huajian_yi_zou/)
 ![Minecraft](icons/icons8-minecraft-creeper-48.png)
 [![Steam](icons/icons8-steam-40.png)](https://steamcommunity.com/profiles/76561198965614838/)
-
 
 学习中……  
 <a title="Java"><img src="icons/java.png" /></a>
