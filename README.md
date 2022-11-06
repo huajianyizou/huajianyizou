@@ -7,11 +7,12 @@
     <img  src="https://visitor-badge.glitch.me/badge?page_id=huajianyizou" />
 </div>
 
-[![GitHub](icons/icons8-github-40.png)](https://github.com/huajianyizou)
-[![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UCrjOyA9RnpaH9y0rlKkvvCA)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/huajian_yi_zou/)
-![Minecraft](icons/icons8-minecraft-creeper-48.png)
-[![Steam](icons/icons8-steam-40.png)](https://steamcommunity.com/profiles/76561198965614838/)
+[![GitHub](icons/icons8-github-40.png#pic_center)](https://github.com/huajianyizou)
+[![YouTube](icons/youtube.png#pic_center)](https://www.youtube.com/channel/UCrjOyA9RnpaH9y0rlKkvvCA)
+[![Instagram](icons/instagram.png#pic_center)](https://www.instagram.com/huajian_yi_zou/)
+![Minecraft](icons/icons8-minecraft-creeper-48.png#pic_center)
+[![Steam](icons/icons8-steam-40.png#pic_center)](https://steamcommunity.com/profiles/76561198965614838/)
+<div align="right"> <a><img src="icons/1.png" width = "300"/></a> </div>
 
 学习中……  
 <a title="Java"><img src="icons/java.png" /></a>
@@ -27,3 +28,4 @@
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=huajianyizou&theme=react-dark)](https://github.com/huajianyizou/github-readme-activity-graph)
+
